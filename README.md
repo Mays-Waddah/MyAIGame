@@ -52,13 +52,13 @@ while guess != number:
     else:
         print("Congratulations! You guessed the number.")
 
-## 📦 Requirements
-No external libraries are needed; the game uses Python's built-in `random` module.
+📦 Requirements
+No external libraries are needed; the game uses Python's built-in random module.
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
+📄 License
+This project is open-source and available under the MIT License.
 
-## 💬 Feedback
+💬 Feedback
 If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
 🌟 Enjoy playing and happy guessing! 😊
